@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.co-primary {
+  color: #fd86a2;
+}
+
+.bck-co-primary {
+  background-color: #fd86a2;
+}
+
+.co-bor-primary {
+  border: #fd86a2;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: "BioRhyme", serif;
+  font-weight: 800;
+}
+@media only screen and (min-width: sm) {
+  h1 {
+    font-size: 5.25rem;
+  }
+}
+@media only screen and (min-width: lg) {
+  h1 {
+    font-size: 7.5rem;
+  }
+}
+
+h2 {
+  font-size: 6rem;
+  font-family: "BioRhyme", serif;
+  font-weight: 400;
+}
+@media only screen and (min-width: sm) {
+  h2 {
+    font-size: 5.25rem;
+  }
+}
+@media only screen and (min-width: lg) {
+  h2 {
+    font-size: 7.5rem;
+  }
+}
+
+h3 {
+  font-size: 3rem;
+  font-family: "BioRhyme", serif;
+  font-weight: 800;
+}
+@media only screen and (min-width: sm) {
+  h3 {
+    font-size: 2.625rem;
+  }
+}
+@media only screen and (min-width: lg) {
+  h3 {
+    font-size: 3.75rem;
+  }
+}
+
+h4 {
+  font-size: 3rem;
+  font-family: "BioRhyme", serif;
+  font-weight: 400;
+}
+@media only screen and (min-width: sm) {
+  h4 {
+    font-size: 2.625rem;
+  }
+}
+@media only screen and (min-width: lg) {
+  h4 {
+    font-size: 3.75rem;
+  }
+}
+
+h5 {
+  font-size: 1.6rem;
+  font-family: "BioRhyme", serif;
+  font-weight: 800;
+}
+@media only screen and (min-width: sm) {
+  h5 {
+    font-size: 1.4rem;
+  }
+}
+@media only screen and (min-width: lg) {
+  h5 {
+    font-size: 2rem;
+  }
+}
+
+h6 {
+  font-size: 1.6rem;
+  font-family: "BioRhyme", serif;
+  font-weight: 400;
+}
+@media only screen and (min-width: sm) {
+  h6 {
+    font-size: 1.4rem;
+  }
+}
+@media only screen and (min-width: lg) {
+  h6 {
+    font-size: 2rem;
+  }
+}
+
+p {
+  font-size: 1.25rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.p-bold {
+  font-size: 1.25rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}
+
+.small {
+  font-size: 1.125rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.ml-1 {
+  margin-left: -82px;
+}
+@media only screen and (min-width: sm) {
+  .ml-1 {
+    margin-left: -106px;
+  }
+}
+@media only screen and (min-width: lg) {
+  .ml-1 {
+    margin-left: -113px;
+  }
+}
+
+.w-col-6-xxl {
+  width: 536px;
+}
+
+.w-col-6-lg {
+  width: 468px;
+}
+
+.fondo {
+  background-color: aqua;
+}
+
+.card-img-overlay {
+  top: 10px;
+  left: 10px;
+  width: 50%;
+}
+@media only screen and (min-width: md) {
+  .card-img-overlay {
+    width: 25%;
+  }
+}
+
+.card-img-overlay-2 {
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  width: 50%;
+}
+@media only screen and (min-width: md) {
+  .card-img-overlay-2 {
+    width: 25%;
+  }
+}
+
+.border-menu {
+  border-bottom: 1px solid black;
+  width: 100px;
+}
+@media only screen and (min-width: md) {
+  .border-menu {
+    border-bottom: 0px solid black;
+  }
+}/*# sourceMappingURL=sytles.css.map */
